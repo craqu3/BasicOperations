@@ -1,0 +1,16 @@
+Algorithm Operations;
+Variables a,b,operation,result:integer;
+Start
+	Write("Enter an integer:")
+	Read;
+	Write("Enter another integer:")
+	Read(b);
+	subtract <= a-b;
+	sum <= a+b;
+	multiply <= a * b;
+	divide <= a / b;
+	Write("The result of the operation:",a," - ",b," = ",subtract);
+	Write("The result of the operation:",a," + ",b," = ",sum);
+	Write("The result of the operation:",a," * ",b," = ",multiply);
+	Write("The result of the operation:",a," / ",b," = ",divide);
+End.

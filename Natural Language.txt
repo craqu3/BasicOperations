@@ -1,0 +1,10 @@
+1- Home
+2- Requests the user to perform the operation
+2- Asks the user for the operand to
+3- Asks the user for the operand b
+4- Calculates the operation between a and b
+5- Presents the result of the sum operation
+6- Presents the result of the subtraction operation
+7- Presents the result of the multiplication operation
+8- Presents the result of the division operation
+9- End
